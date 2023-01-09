@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+}
+
+#contact{
+    font-family: sans-serif;
+    
+    color: whitesmoke;
+    background: rgb(4,11,11);
+    background: rgb(4,11,11);
+background: linear-gradient(157deg, rgba(4,11,11,1) 51%, rgba(0,240,247,1) 100%);
+}
+
+#contact .row{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+
+
+
+
+#contact .add p{
+    font-size: 20px;
+    
+}
+
+#contact .add{
+    padding: 0px 50px ;
+}
